@@ -1,0 +1,22 @@
+/*
+ * Para cambiar este encabezado de licencia, elija los encabezados de licencia en Propiedades del proyecto.
+ * Para cambiar este archivo de plantilla, seleccione Herramientas | Plantillas
+ * y abrir la plantilla en el editor.
+ */
+package javaapplication1;
+
+/**
+ *
+ * @author user
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hola mundo");
+        
+        List lista = new List();
+        
+        } 
+        
+
+//Aca se añaden los numeros para que se tomen en la otra funcion
